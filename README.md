@@ -16,5 +16,5 @@ Curso HTML e CSS: praticando HTML/CSS
 ## 📁 Acesso ao projeto
 
 1. [acessar o código fonte do projeto](https://github.com/viniciusalmeidaalves/curso-front-end-page-alura-plus)
-2. [baixar o código fonte do projeto](https://github.com/viniciusalmeidaalves/curso-front-end-page-portfolio/archive/refs/heads/main.zip)
-3. [visualizar o projeto na web](https://curso-front-end-page-portfolio.vercel.app/)
+2. [baixar o código fonte do projeto](https://github.com/viniciusalmeidaalves/curso-front-end-page-alura-plus.git)
+3. [visualizar o projeto na web](https://curso-front-end-page-alura-plus.vercel.app/)
